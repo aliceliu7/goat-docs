@@ -1,5 +1,15 @@
 {
   "quick-start": "Quick Start Guide",
+  "getting-started": "Getting Started",
   "app-developers": "Application Development",
-  "sequencers": "Sequencer Operations"
+  "sequencers": "Sequencer Operations",
+  "networks-rpc": "Networks & RPC",
+  "contracts": "Contract Addresses",
+  "bridged": "Bridge",
+  "subgraph": "Subgraph",
+  "oracle": "Oracle",
+  "vrf": "VRF",
+  "concepts": "Core Concepts",
+  "security": "Security",
+  "testing": "Testing"
 }

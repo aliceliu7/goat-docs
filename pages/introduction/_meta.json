@@ -14,5 +14,9 @@
   "security": {
     "title": "Security Model",
     "display": "normal"
+  },
+  "bitvm": {
+    "title": "BitVM Introduction",
+    "display": "normal"
   }
 }
